@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngelMx27
-- 👀 I’m interested in Web development, C#, .NET, MVS...
+- 👀 I’m interested in Web development, C#, .NET, Python...
 - 🌱 I’m currently learning HTML; CSS
 - 💞️ I’m looking to collaborate on interesting project and continue learning... *_*
   
