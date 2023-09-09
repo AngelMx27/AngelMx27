@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Segura</h1>
-<h3 align="center">A passionate mechatronics engineer from México</h3>
+<h3 align="center">A passionate mechatronics engineer from México to the world!</h3>
 
 - 🔭 I’m currently working as a **Digital Systems Engineer**
 
